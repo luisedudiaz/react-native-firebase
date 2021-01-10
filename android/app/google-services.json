@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "201954179724",
+    "firebase_url": "https://adminyourhome.firebaseio.com",
+    "project_id": "adminyourhome",
+    "storage_bucket": "adminyourhome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201954179724:android:35a434a8e3148af722d9a9",
+        "android_client_info": {
+          "package_name": "mx.com.adminyourhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201954179724-r2qbpdq4j9tfj11015ia6ha76b8v2vh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkAlOZiZA9-nH_jEEQ4-F_BCV6SbxdTJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201954179724-r2qbpdq4j9tfj11015ia6ha76b8v2vh7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201954179724-ani9lla68l06cisgoal6cirn6efg6qq2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.com.adminyourhome"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
